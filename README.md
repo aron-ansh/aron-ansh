@@ -1,5 +1,4 @@
 ![Header](./header-github.png)
-![Header](./github-header-image.gif)
 
 <h1 align="center">I'm a Passionate Developer and Student</h1> 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" align="right">
