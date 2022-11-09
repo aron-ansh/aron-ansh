@@ -28,8 +28,6 @@
 <!---### 🎬 Watch animated commit:
 ![](./profile-3d-contrib/profile-gitblock.svg)-->
 
-![gitartwork](gitartwork.svg)
-
 
 ### 🤝 Connect with me:
 
