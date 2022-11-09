@@ -24,8 +24,6 @@
 
 <img height="180" src="https://github-profile-trophy.vercel.app/?username=aron-ansh&column=8&theme=algolia&no-frame=true"/>
 
-### 🐍 Watch Snake eating my contribution:
-![Snake](https://github.com/aron-ansh/aron-ansh/blob/output/github-contribution-grid-snake.svg)
 
 ### 🎬 Watch animated commit:
 ![](./profile-3d-contrib/profile-gitblock.svg)
