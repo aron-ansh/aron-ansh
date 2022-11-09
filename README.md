@@ -1,7 +1,7 @@
 ![Header](./header-github.png)
 
 <h1 align="center">I'm a Passionate Developer and Student</h1> 
-<img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding&psig=AOvVaw2uZnMuWkyWwJ4mwV7MB0Ke&ust=1668058831123000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJDXweWxoPsCFQAAAAAdAAAAABA_)" width="150" align="right">
+<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding&psig=AOvVaw2uZnMuWkyWwJ4mwV7MB0Ke&ust=1668058831123000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJDXweWxoPsCFQAAAAAdAAAAABA_)]" width="150" align="right">
 
 - 👀 I’m interested in Full Stack Web Development, Designing and Android Development..
 - 🌱 I’m currently learning everything possible.. 😄
