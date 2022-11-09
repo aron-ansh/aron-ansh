@@ -25,8 +25,8 @@
 <img height="180" src="https://github-profile-trophy.vercel.app/?username=aron-ansh&column=8&theme=algolia&no-frame=true"/>
 
 
-### 🎬 Watch animated commit:
-![](./profile-3d-contrib/profile-gitblock.svg)
+<!---### 🎬 Watch animated commit:
+![](./profile-3d-contrib/profile-gitblock.svg)-->
 
 
 ### 🤝 Connect with me:
