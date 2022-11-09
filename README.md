@@ -22,10 +22,10 @@
 
 ### 🏆 My trophies
 
-<img height="180" src="https://github-profile-trophy.vercel.app/?username=ShishirShekhar&column=8&theme=algolia&no-frame=true"/>
+<img height="180" src="https://github-profile-trophy.vercel.app/?username=aron-ansh&column=8&theme=algolia&no-frame=true"/>
 
 ### 🐍 Watch Snake eating my contribution:
-![Snake](https://github.com/ShishirShekhar/ShishirShekhar/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://github.com/aron-ansh/aron-ansh/blob/output/github-contribution-grid-snake.svg)
 
 ### 🎬 Watch animated commit:
 ![](./profile-3d-contrib/profile-gitblock.svg)
@@ -33,10 +33,10 @@
 
 ### 🤝 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shishir-shekhar/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ShishirShekha12)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/740247432943894599)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Shishir_Shekhar)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shishirshekharpathak/)
-[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sspdav02@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShishirShekhar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aron-ansh/)
+<!---[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xxxxx)-->
+<!--[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/xxxxxxx)-->
+<!--[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xxxxxx)-->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aron_ansh/)
+[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshkr314@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aron-ansh)
